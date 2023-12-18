@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate backend and frontend developer from Ecuador</h3>
 
-- 🌱 I’m currently learning **Flutter and expanding my knowledge in JavaScript**
+- 🌱 I’m currently learning **Expanding my knowledge in JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlexJmzc](https://github.com/AlexJmzc)
 
