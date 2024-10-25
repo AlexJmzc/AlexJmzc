@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alexanderjmzc@outlook.es**
 
-- 📄 Know about my experiences [(https://javierjmzportfolio.000webhostapp.com)](https://javierjmzportfolio.000webhostapp.com)
+- 📄 Know about my experiences [(https://javierjmzc.netlify.app/)](https://javierjmzc.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
